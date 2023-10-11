@@ -10,8 +10,6 @@
 
 Make simple notes, ez use wherever & whenever you are, with Noted.<br>
 
-<!-- [Visit Noted](https://mynoted.netlify.app/) -->
-
 ### Features
 
 Provides Pencarian `search`, List `list anime`.
