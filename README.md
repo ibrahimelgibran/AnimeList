@@ -1,6 +1,12 @@
 ## AnimeList
 
-<img src="/public/desktop.png">Mobile</img>
+### Mode Mobile
+
+<img src="/public/mobile.png"></img>
+
+### Mode Desktop
+
+<img src="/public/desktop.png"></img>
 
 Make simple notes, ez use wherever & whenever you are, with Noted.<br>
 
