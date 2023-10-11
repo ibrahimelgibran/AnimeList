@@ -1,6 +1,6 @@
 ## AnimeList
 
-<img src="mobile.png">Mobile</img>
+<img src="/public/desktop.png">Mobile</img>
 
 Make simple notes, ez use wherever & whenever you are, with Noted.<br>
 
