@@ -13,7 +13,7 @@ const Page = async () => {
         <Header
           title="Paling Populer"
           linkTitle="Lihat Semua"
-          linkHref="/Populer"
+          linkHref="/populer"
         />
         <AnimeList api={topAnime} />
       </selection>
