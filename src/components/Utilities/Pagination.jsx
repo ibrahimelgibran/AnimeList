@@ -1,6 +1,6 @@
 const Pagination = ({ page, lastPage, setPage }) => {
   const scrollTop = () => {
-    window.scrollTo({
+    scrollTo({
       behavior: "smooth",
       top: 0,
     });
